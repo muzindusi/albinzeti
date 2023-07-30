@@ -1,0 +1,242 @@
+body{
+    background: white;
+}
+
+#menu{
+    border: 1PX solid white;
+    width: 100%;
+    height: 350px;
+    background-color: navy;
+}
+.logo{
+    border: 1PX solid white;
+    width: 160PX;
+    height: 180px;
+    margin-left: 140px;
+    margin-top: 50px;
+    background-image: url("images.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.Titre{
+    margin-left: 100px;
+    text-align: center;
+    margin-top: -160px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.Titre h2{
+    
+    font-size: xx-large;
+}
+
+.Titre h1{
+    margin-top: -30px;
+}
+.Titre p{
+    margin-top: -20px; 
+    font-size: x-large;
+}
+
+.men{
+    border: 1px SOLID white;
+    width: 1250px;
+    height: 60px;
+    margin-left: 80px;
+    margin-top: 75px;
+    background: white;
+}
+
+.acc{
+    border: 1PX solid rgb(75, 75, 235); ;
+    width: 100px;
+    height: 60px;
+    background: rgb(75, 75, 235);
+    margin-right: 7px;
+    margin-top: px;
+}
+
+.acc a{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.acc a:hover{
+   color: navy;
+}
+
+.el ul{
+  margin-left: 80px;
+  display: inline-flexbox;
+  margin-top: -40px;
+}
+
+.el ul li{
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 20px;
+  }
+
+  .el ul li a{
+    text-decoration: none;
+    color: black;
+  }
+
+  .el ul li a:hover{
+    color:  navy;
+  }
+  .recher{
+    border: 1PX solid slategray;
+    width: 300PX;
+    height: 50px ;
+    margin-left:  940px;
+    margin-top: -55px;
+    box-shadow: 2PX 2PX 1PX 1PX white;
+    cursor: pointer;
+  }
+  .recher P{
+    font-size: 25px;
+    margin-top: 10px;
+    color: slategray;
+   
+  }
+  #milieu{
+    border: 1px solid white;
+    width: 1340px;
+    height: 2750px;
+  }
+
+  .part1{
+    border: 1PX SOLID white;
+    width: 1340px;
+    height: 500Px;
+    background-color: antiquewhite;
+  }
+
+  .back{
+    border: 1px solid white;
+    width: 800px;
+    height: 500px;
+    margin-left: 270PX;
+    background-image: url("s1.png");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .tout{
+    border: 1PX SOLID white;
+    width: 1280px;
+    height: 2200px;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 2PX 2PX 2PX 2PX slategray;
+    margin-left: 40px;
+  }
+  .dir{
+    border: 1PX SOLID white;
+    width: 400PX;
+    height: 2100px;
+   
+
+  }
+  .Tit{
+    border: 1px solid black;
+    width: 350px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+
+  .Tit h2{
+      text-align: center;
+      color: rgb(79, 79, 238);
+      font-size: 20px;
+
+  }
+  .tof{
+    border: 1px solid white;
+    width: 380px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-shadow: 2PX 2PX 2PX 2PX slategrey;
+    background-image: url("Al1.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .ev{
+    border: 1PX SOLID white;
+    width: 420PX;
+    height: 1800px;
+    margin-left: 440px;
+    margin-top: -2100px;
+   
+  }
+
+  .lien{
+    border: 1PX SOLID white;
+    width: 380PX;
+    height: 1800px;
+    margin-left: 880px;
+    margin-top: -1800px;
+  }
+.commentaire{
+  font-size: 20px;
+  color: rgb(41, 40, 40);
+}
+.commentaire h2{
+  text-align: center;
+}
+
+.liste h3{
+  text-align: center;
+  font-size: 30px;
+  color: rgb(99, 99, 245);
+}
+
+.liste h4{
+font-size: 30px;
+}
+
+.liste P{
+  margin-top: -5px;
+  font-size: 20px;
+}
+
+.liste ul li{
+  font-size: 25PX;
+}
+.liste ul li a{
+  font-size: 25PX;
+  text-decoration: none;
+  margin-top: -10px;
+}
+.listelien h3{
+  text-align: center;
+  font-size: 30px;
+  color: rgb(99, 99, 245);
+}
+
+.listelien ul li a{
+  font-size: 25PX;
+  text-decoration: none;
+  margin-top: -10px;
+}
+
+#pied{
+  border: 1px solid black;
+  width: 1340px;
+  height: 100px;
+  text-align: center;
+  background-color: rgb(2, 2, 75);
+}
+
+.foot{
+  color: white;
+  font-size: 15px;
+}
